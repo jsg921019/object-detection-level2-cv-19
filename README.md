@@ -1,5 +1,10 @@
 # Object Detection for classifying recycling item  
 
+최종 순위 1/19
+
+<img src='images/result.png' />
+
+
 ## 1. Introduction
 
 바야흐로 대량 생산, 대량 소비의 시대. 우리는 많은 물건이 대량으로 생산되고, 소비되는 시대를 살고 있습니다. 하지만 이러한 문화는 '쓰레기 대란', '매립지 부족'과 같은 여러 사회 문제를 낳고 있습니다.  
